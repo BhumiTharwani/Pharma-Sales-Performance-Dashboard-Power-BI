@@ -20,7 +20,7 @@ Sales Trend Analysis: Monthly/quarterly trends to monitor growt.
 Advanced DAX Calculations: Complex measures and logic implemented for deeper sales insights.
 Conditional Formatting: Highlighting critical values, trends, and performance thresholds for quick interpretation.
 
-# 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 Power BI:  Data visualization, advanced DAX modeling, conditional formatting, and report building.
 SQL: Data extraction and transformation.
