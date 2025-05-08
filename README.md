@@ -1,4 +1,4 @@
-# Pharma-Sales-Performance-Dashboard-Power-BI-
+# Pharma-Sales-Performance-Dashboard-Power-BI
 
 ### Overview
 This Power BI project provides detailed insights into ABC Pharma’s Sales Performance, helping stakeholders make informed decisions based on real-time data analysis.
