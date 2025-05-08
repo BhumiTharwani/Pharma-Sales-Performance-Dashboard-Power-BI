@@ -16,10 +16,12 @@ Excel Files – For additional datasets such as product master, region mapping, 
 Sales Overview: Overall sales numbers with key KPIs.
 Top-Selling Products: Analysis of products driving the most revenue.
 Regional Performance: Sales distribution across different locations/territories.
-Sales Trend Analysis: Monthly/quarterly trends to monitor growt
+Sales Trend Analysis: Monthly/quarterly trends to monitor growt.
+Advanced DAX Calculations: Complex measures and logic implemented for deeper sales insights.
+Conditional Formatting: Highlighting critical values, trends, and performance thresholds for quick interpretation.
 
 # 🛠️ Tools & Technologies
 
-Power BI: Data visualization and report building.
+Power BI:  Data visualization, advanced DAX modeling, conditional formatting, and report building.
 SQL: Data extraction and transformation.
 Excel: Supplemental source for master/reference data.
